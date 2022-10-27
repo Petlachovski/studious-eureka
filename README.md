@@ -4,7 +4,7 @@ __Building__
 
 To build the program, you will need [cmake](https://cmake.org/)
 ```
-cd super-octo-fortnight/app
+cd studious-eureka/apps
 mkdir build
 cd build
 cmake ..
